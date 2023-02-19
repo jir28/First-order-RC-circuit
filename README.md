@@ -1,5 +1,9 @@
 # First-order-RC-circuit
 
+The file Main.m contains the analytical solution in matlab
+
+the Sim. sk file contains the Simulink simulation of the system.
+
 Matlab plot of the analytical solution obtained. 
 ![ALL](https://user-images.githubusercontent.com/87546129/219961674-872619a7-28b2-4f01-ba62-f107f01bbbe1.jpg)
 

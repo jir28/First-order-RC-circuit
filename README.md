@@ -2,7 +2,11 @@
 
 The file Main.m contains the analytical solution in matlab
 
-the P1_RC_SIMULINK.slx file contains the Simulink simulation of the system.
+The P1_RC_SIMULINK.slx file contains the Simulink simulation of the system.
+
+Circuit RC of this proyect
+
+![RC CIRCUIT](https://user-images.githubusercontent.com/87546129/219962210-04fc5029-4fa7-4baf-87fd-28d2191b7ab4.jpg)
 
 Matlab plot of the analytical solution obtained. 
 ![ALL](https://user-images.githubusercontent.com/87546129/219961674-872619a7-28b2-4f01-ba62-f107f01bbbe1.jpg)
